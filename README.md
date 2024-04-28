@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution in Github](https://your-solution-url.com)
--  [Live Site URL](https://your-live-site-url.com)
+- [Solution in Github](https://github.com/1deadjoe/product-preview-card.git))
+-  [Live Site URL](https://product-preview-card-two-smoky.vercel.app/)
 
 ## My process
 
@@ -46,7 +46,7 @@ To work on mobile first workflow, and grid
 
 ## Author
 
-- Website - [Joel Chiro]()
+- Website - [Joel Chiro](https://social-profiles-link.vercel.app/)
 - Frontend Mentor - [@chirojoe1](https://www.frontendmentor.io/profile/chirojoe1)
 - Twitter - [@1deadjoe](https://www.twitter.com/1deadjoe)
 
